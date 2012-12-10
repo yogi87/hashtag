@@ -7,7 +7,7 @@ gem 'rails', '3.2.8'
 
 gem 'high_voltage'
 gem 'sqlite3'
-
+gem 'twitter', '~>3.7.0'
 
 # Gems used only for assets and not required
 # in production environments by default.
